@@ -1,17 +1,8 @@
 ## Welcome to Json to CSV
-
-You can use the [editor on GitHub](https://github.com/srini-pro/JSON-to-CSV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-###
-Json vs CSV
-Json can be used in html js python more ,viwers aren't good and in loww supply 
-
-
-```markdown
-Syntax highlighted code block
-
+Json is a lovly file but sadly i cant viewer as awesome as it can be good
+and json has a lot places it can be found
+csv it very easy to find exel,sheeets and oo calc
+to why not convert it
 # Header 1
 ## Header 2
 ### Header 3
@@ -26,13 +17,3 @@ Syntax highlighted code block
 
 [Link](https://github.com/srini-pro/JSON-to-CSV/) and ![Image](https://repository-images.githubusercontent.com/395735231/2a53fef9-8ab3-43eb-928d-7cfe9ed52758)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srini-pro/JSON-to-CSV/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
