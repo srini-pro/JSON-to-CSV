@@ -1,7 +1,7 @@
 ## Welcome to Json to CSV
-Json is a lovly file but sadly i cant viewer as awesome as it can be good
-and json has a lot places it can be found
-csv it very easy to find exel,sheeets and oo calc
+Json is a lovly file but sadly there isn't a good viewer as awesome as it can be
+and json has a lot places it can be found, where as 
+csv viewers are very easy to find exel,sheeets and open office calc
 to why not convert it
 # Header 1
 ## Header 2
